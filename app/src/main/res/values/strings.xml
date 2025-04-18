@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CallReport</string>
+    <string name="button_name">Регистрация</string>
+    <string name="title">Мы работаем, Вы отдыхаете.</string>
+    <string name="switch_calls">Исходящие звонки</string>
+    <string name="switch_logs">Журнал звонков</string>
+    <string name="fab_des">Отправить логи</string>
+    <string name="log_window_name">Журнал программы</string>
+
+</resources>
